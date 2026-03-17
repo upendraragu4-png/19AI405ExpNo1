@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ABINAYA T </h3>
-<h3>Register Number: 212224060006 </h3>
+<h3>Name:upendra r </h3>
+<h3>Register Number: 212224060290 </h3>
 
 
 <h3>AIM:</h3>
